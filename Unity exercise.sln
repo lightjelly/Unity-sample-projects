@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity exercise.CSharp", "Unity exercise.CSharp.csproj", "{13B85506-0A94-8423-7639-C240A5E22B16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Exercise.CSharp", "Unity Exercise.CSharp.csproj", "{0BD232F6-1954-B161-2B7B-BB2CFF80D1D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{13B85506-0A94-8423-7639-C240A5E22B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{13B85506-0A94-8423-7639-C240A5E22B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{13B85506-0A94-8423-7639-C240A5E22B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{13B85506-0A94-8423-7639-C240A5E22B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD232F6-1954-B161-2B7B-BB2CFF80D1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD232F6-1954-B161-2B7B-BB2CFF80D1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD232F6-1954-B161-2B7B-BB2CFF80D1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD232F6-1954-B161-2B7B-BB2CFF80D1D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

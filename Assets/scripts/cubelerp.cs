@@ -27,7 +27,7 @@ public class cubelerp : MonoBehaviour {
     {
         float i = startTime;
         float speed = 1.0f / moveDuration;
-        while (i < 1.0f )
+        while (i < 1.0f ) // value of interpolant in Lerp must be between 0 and 1
         {
             i += Time.deltaTime * speed;
             this.transform.position = Vector3.Lerp(startpos, endpos, i);

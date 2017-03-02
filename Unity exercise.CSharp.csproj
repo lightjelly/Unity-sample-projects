@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{13B85506-0A94-8423-7639-C240A5E22B16}</ProjectGuid>
+    <ProjectGuid>{0BD232F6-1954-B161-2B7B-BB2CFF80D1D9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -75,7 +75,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\scripts\cubelerp.cs" />
+    <Compile Include="Assets\Scripts\cubelerp.cs" />
+    <Compile Include="Assets\Scripts\fpsCounter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
