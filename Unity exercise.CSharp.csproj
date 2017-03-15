@@ -78,6 +78,7 @@
     <Compile Include="Assets\Scripts\FlyControl.cs" />
     <Compile Include="Assets\Scripts\cubelerp.cs" />
     <Compile Include="Assets\Scripts\fpsCounter.cs" />
+    <Compile Include="Assets\Scripts\webImage.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
